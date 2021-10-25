@@ -4,10 +4,10 @@
 
 
 ## :clipboard: Descrição
+Projetos desenvolvidos durante graduação no curso tecnico do IFPB-Campus esperança, na disciplina de Programação WEB 1 e 2.
 
 
 ## 🧐 O que tem dentro?
-Projetos desenvolvidos durante graduação no curso tecnico do IFPB-Campus esperança, na disciplina de Programação WEB 1 e 2.
 
 ### Tecnologias
 - [PHP](https://www.php.net)
